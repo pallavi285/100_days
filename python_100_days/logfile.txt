@@ -1,0 +1,6 @@
+1.school
+2.studying
+3.echniques
+4.help
+5.coding
+6.relese data
